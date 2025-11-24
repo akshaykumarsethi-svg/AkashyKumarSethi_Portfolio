@@ -1,0 +1,562 @@
+{
+    "siteConfig": {
+      "siteName": "Akshay Kumar Sethi",
+      "tagline": "Empowering You to Unlock Your Full Potential",
+      "logo": "AK",
+      "link":"https://tagmango.app/59bc070544",
+      "theme": {
+        "primary": "#D4AF37",
+        "secondary": "#046D51",
+        "accent": "#2BAFAD",
+        "success": "#046D51",
+        "warning": "#D4AF37",
+        "dark": "#0A1A3C",
+        "darkAlt": "#1a2f4d",
+        "light": "#FFFFFF",
+        "lightAlt": "#E6D8C3",
+        "text": "#0A1A3C",
+        "textLight": "#5a6f8a"
+      }     
+    },
+    "hero": {
+      "eyebrow": "Welcome to Your Transformation",
+      "headline": "Transform Your Life,",
+      "headlineAccent": "Achieve Your Dreams",
+      "subHeadline": "Helping ambitious professionals and entrepreneurs break through limitations and build a happy life through proven happiness coaching methodologies",
+      "image": "/images/hero_image1.png",
+      "ctaPrimary": {
+        "text": "Start Your Journey",
+        "link": "https://tagmango.app/59bc070544"
+      },
+      "ctaSecondary": {
+        "text": "Explore Programs",
+        "link": "#services"
+      },
+      "stats": [
+        {
+          "number": "500+",
+          "label": "Lives Transformed"
+        },
+        {
+          "number": "98%",
+          "label": "Success Rate"
+        },
+        {
+          "number": "15+",
+          "label": "Years Experience"
+        }
+      ],
+      "badges": [
+        "Featured in Forbes",
+        "TEDx Speaker",
+        "ICF Certified Coach"
+      ]
+    },
+    "about": {
+      "title": "My Journey",
+      "headline": "Transform Your Life,",
+      "subtitle": "From Corporate Burnout to Purpose-Driven Success",
+      "image": "/images/about.jpg",
+      "story": [
+        "A decade ago, I was trapped in a soul-crushing corporate routine. Despite external success, I felt empty, disconnected, and far from my true purpose. That rock bottom became my launching pad.",
+        "Through intensive personal development, mindfulness practices, and transformative mentorship, I completely reinvented my life and learned how to be happy again. Today, I wake up every day living my passion—empowering others to discover theirs.",
+        "My mission is crystal clear: guide you through your happiness transformation course with proven strategies, unwavering support, and absolute belief in your unlimited potential."
+      ],
+      "credentials": [
+        {
+          "title": "ICF Certified Professional Coach",
+          "organization": "International Coaching Federation",
+          "year": "2015"
+        },
+        {
+          "title": "NLP Master Practitioner",
+          "organization": "Society of NLP",
+          "year": "2016"
+        },
+        {
+          "title": "Mindfulness Teacher Certification",
+          "organization": "Mindful Schools",
+          "year": "2017"
+        },
+        {
+          "title": "Corporate Leadership Development",
+          "organization": "Harvard Extension School",
+          "year": "2018"
+        }
+      ],
+      "values": [
+        {
+          "name": "Authenticity",
+          "description": "Being genuine in every interaction",
+          "icon": "heart"
+        },
+        {
+          "name": "Growth Mindset",
+          "description": "Continuous learning and evolution",
+          "icon": "trending-up"
+        },
+        {
+          "name": "Compassion",
+          "description": "Leading with empathy and understanding",
+          "icon": "users"
+        },
+        {
+          "name": "Accountability",
+          "description": "Taking ownership of results",
+          "icon": "check-circle"
+        }
+      ],
+      "philosophy": "Every person possesses unlimited potential waiting to be unlocked. My happiness coaching approach synergizes cutting-edge psychology, neuroscience research, and timeless wisdom to create profound, lasting transformation."
+    },
+    "services": {
+      "title": "Happiness Coaching Programs",
+      "subtitle": "Tailored pathways designed for your unique transformation journey",
+      "individual": [
+        {
+          "id": 1,
+          "name": "Elite 1-on-1 Transformation",
+          "tagline": "Your personalized path to breakthrough success",
+          "description": "Deep-dive intensive happiness coaching for high-achievers ready to transcend their current limitations and achieve exponential growth",
+          "duration": "12 weeks",
+          "sessionsCount": 12,
+          "includes": [
+            "Weekly 90-minute deep-dive sessions",
+            "Personalized happiness transformation roadmap",
+            "24/7 WhatsApp/text support",
+            "Custom workbooks and resources",
+            "Progress tracking dashboard",
+            "Lifetime alumni community access"
+          ],
+          "outcomes": [
+            "Crystal-clear vision and purpose",
+            "Happiness breakthrough program results",
+            "Sustainable success systems",
+            "Enhanced confidence and clarity"
+          ],
+          "price": "Contact for pricing",
+          "featured": true,
+          "color": "primary"
+        },
+        {
+          "id": 2,
+          "name": "Career Clarity & Acceleration",
+          "tagline": "Align your career with your authentic purpose",
+          "description": "Strategic career coaching to help professionals discover their calling and create fulfilling career trajectories",
+          "duration": "8 weeks",
+          "sessionsCount": 8,
+          "includes": [
+            "Bi-weekly 90-minute strategy sessions",
+            "Comprehensive career assessments",
+            "Personal brand development",
+            "LinkedIn optimization & networking strategies",
+            "Interview mastery training",
+            "Negotiation techniques"
+          ],
+          "outcomes": [
+            "Career clarity and direction",
+            "Enhanced professional presence",
+            "Strategic career roadmap",
+            "Confident job transitions"
+          ],
+          "price": "$3,500",
+          "featured": false,
+          "color": "secondary"
+        },
+        {
+          "id": 3,
+          "name": "Confidence & Mindset Mastery",
+          "tagline": "Develop unshakeable confidence from within",
+          "description": "Intensive mindset transformation program with emotional happiness training to eliminate limiting beliefs and cultivate lasting confidence",
+          "duration": "6 weeks",
+          "sessionsCount": 6,
+          "includes": [
+            "6 powerful coaching sessions",
+            "Daily happiness habits exercises and meditations",
+            "Confidence-building toolkit",
+            "Guided visualization practices",
+            "30-day transformation challenge",
+            "Progress journaling templates"
+          ],
+          "outcomes": [
+            "Unshakeable self-confidence",
+            "Empowering belief systems",
+            "Enhanced decision-making",
+            "Authentic self-expression"
+          ],
+          "price": "$1,800",
+          "featured": false,
+          "color": "accent"
+          
+        }
+      ],
+      "group": {
+        "name": "Collective Transformation Circle",
+        "tagline": "Grow together, transform together",
+        "description": "Join an intimate community of ambitious individuals committed to mutual growth and happiness transformation",
+        "format": "Live virtual sessions + private community platform",
+        "duration": "12 weeks",
+        "maxParticipants": 15,
+        "includes": [
+          "Weekly 120-minute live group coaching",
+          "Private online community (24/7 access)",
+          "Monthly guest expert masterclasses",
+          "Peer accountability partnerships",
+          "Shared resource library",
+          "Lifetime session recordings access"
+        ],
+        "outcomes": [
+          "Supportive transformation community",
+          "Accelerated personal growth",
+          "Diverse perspectives and insights",
+          "Lasting meaningful connections"
+        ],
+        "price": "$697",
+        "nextCohort": "February 1, 2026",
+        "spotsRemaining": 8
+      },
+      "corporate": {
+        "title": "Enterprise Solutions",
+        "subtitle": "Transform your organization from the inside out",
+        "programs": [
+          {
+            "name": "Executive Leadership Development",
+            "description": "Transform senior leaders into visionary, emotionally intelligent executives",
+            "duration": "6 months",
+            "format": "On-site + Virtual"
+          },
+          {
+            "name": "High-Performance Team Building",
+            "description": "Create cohesive, motivated teams that consistently exceed targets",
+            "duration": "3 months",
+            "format": "Workshops"
+          },
+          {
+            "name": "Change Management & Culture",
+            "description": "Navigate organizational change with resilience and clarity",
+            "duration": "Flexible",
+            "format": "Consulting"
+          },
+          {
+            "name": "Custom Workshops & Keynotes",
+            "description": "Tailored programs addressing your specific organizational needs",
+            "duration": "1 day - 3 months",
+            "format": "On-demand"
+          }
+        ],
+        "clients": [
+          "Fortune 500 companies",
+          "Tech startups",
+          "Healthcare organizations",
+          "Educational institutions"
+        ],
+        "cta": "Schedule Enterprise Consultation"
+      },
+      "link":"https://tagmango.app/59bc070544"
+    },
+    "membership": {
+      "title": "Membership Tiers",
+      "subtitle": "Continuous support for your ongoing happiness transformation journey",
+      "active": true,
+      "link":"https://tagmango.app/59bc070544",
+      "tiers": [
+        {
+          "id": 1,
+          "name": "Happiness Foundation",
+          "tagline": "Start your transformation",
+          "price": "$79",
+          "period": "per month",
+          "billingNote": "Billed monthly, cancel anytime",
+          "benefits": [
+            "2 monthly live group coaching calls",
+            "Access to full resource library (100+ resources)",
+            "Private community platform access",
+            "Weekly reflection prompts & exercises",
+            "Monthly newsletter with exclusive insights",
+            "Member-only discounts on programs"
+          ],
+          "popular": false,
+          "color": "secondary",
+          "icon": "star"
+        },
+        {
+          "id": 2,
+          "name": "Happiness Mastery",
+          "tagline": "Supercharge your growth",
+          "price": "$197",
+          "period": "per month",
+          "billingNote": "Billed monthly, cancel anytime",
+          "benefits": [
+            "Everything in Foundation tier",
+            "2 monthly 1-on-1 happiness coaching calls (45 min each)",
+            "Access to premium advanced courses",
+            "Priority email support (24hr response)",
+            "Quarterly personalized progress reviews",
+            "Exclusive monthly masterclasses",
+            "Early access to new programs"
+          ],
+          "popular": true,
+          "color": "primary",
+          "icon": "zap"
+        },
+        {
+          "id": 3,
+          "name": "Quantum Happiness",
+          "tagline": "Elite transformation experience",
+          "price": "$497",
+          "period": "per month",
+          "billingNote": "Billed monthly, cancel anytime",
+          "benefits": [
+            "Everything in Accelerator tier",
+            "Weekly 1-on-1 coaching calls (60 min)",
+            "Direct messaging access (WhatsApp/Voxer)",
+            "100% personalized curriculum",
+            "Monthly VIP mastermind sessions",
+            "Annual in-person retreat (included)",
+            "Lifetime program access guarantee",
+            "Personal brand consultation included"
+          ],
+          "popular": false,
+          "color": "accent",
+          "icon": "crown"
+        }
+      ]
+    },
+    "offerBanner": {
+      "active": true,
+      "text": "🎉 Limited Time: Get 25% off your first coaching package!",
+      "subtext": "Use code TRANSFORM25 at checkout • Expires December 31, 2025",
+      "ctaText": "Claim Your Discount",
+      "ctaLink": "https://tagmango.app/59bc070544"
+    },
+    "testimonials": {
+      "title": "Success Stories",
+      "subtitle": "Real transformations from real people",
+      "stories": [
+        {
+          "id": 1,
+          "name": "Sarah Martinez",
+          "role": "Marketing Director → Agency Owner",
+          "company": "Thrive Digital",
+          "rating": 5,
+          "quote": "This happiness coaching program didn't just change my career—it transformed my entire life. I went from feeling trapped and unfulfilled to launching my dream agency and tripling my income. The confidence and clarity I gained are priceless!",
+          "beforeAfter": {
+            "before": "Stuck in corporate role, lacking fulfillment and confidence",
+            "after": "Launched 6-figure marketing agency, living with purpose and passion"
+          },
+          "metrics": [
+            "300% income increase",
+            "Work-life balance achieved",
+            "Team of 8 built in 12 months"
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Michael Chen",
+          "role": "Startup Founder",
+          "company": "TechFlow Solutions",
+          "rating": 5,
+          "quote": "The mindset work was absolutely game-changing. I finally broke through my limiting beliefs and scaled my business to 7 figures. The strategic frameworks and accountability made all the difference.",
+          "beforeAfter": {
+            "before": "Struggling founder dealing with imposter syndrome",
+            "after": "Confident CEO leading a thriving 7-figure company"
+          },
+          "metrics": [
+            "$2M ARR achieved",
+            "Series A funding secured",
+            "Featured in TechCrunch"
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Dr. Emily Rodriguez",
+          "role": "Educator → Life Coach",
+          "company": "Empower & Elevate Coaching",
+          "rating": 5,
+          "quote": "I discovered my true calling through these transformative sessions. The career clarity program gave me the courage to transition from teaching to coaching. I've never felt more aligned and fulfilled.",
+          "beforeAfter": {
+            "before": "Burned-out teacher searching for deeper purpose",
+            "after": "Thriving life coach with growing private practice"
+          },
+          "metrics": [
+            "Successfully transitioned careers",
+            "50+ clients served in first year",
+            "5-figure monthly revenue"
+          ]
+        },
+        {
+          "id": 4,
+          "name": "James Thompson",
+          "role": "Corporate Executive",
+          "company": "Global Finance Corp",
+          "rating": 5,
+          "quote": "As a C-suite executive, I thought I had it all figured out. This coaching revealed blind spots and helped me become a more authentic, effective leader. My team's engagement scores skyrocketed.",
+          "beforeAfter": {
+            "before": "Successful but disconnected leader",
+            "after": "Emotionally intelligent executive inspiring high-performing teams"
+          },
+          "metrics": [
+            "35% team engagement increase",
+            "Promoted to Chief Operating Officer",
+            "Improved work-life integration"
+          ]
+        }
+      ]
+    },
+    "contact": {
+      "title": "Begin Your Transformation",
+      "subtitle": "Take the first step towards your extraordinary future",
+      "description": "Schedule a complimentary discovery call to explore how we can work together to create the life you've always envisioned.",
+      "email": "thehappinesshorizon@gmail.com",
+      "phone": "+91 9975050665",
+      "whatsappNumber": "919975050665", 
+      "location": "Serving clients worldwide • Virtual & In-Person",
+      "availability": "Monday - Friday, 9 AM - 6 PM EST",
+      "socialLinks": [
+        {
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/happinessofficerakshay/",
+          "handle": "@transformyourlife"
+        },
+        {
+          "platform": "LinkedIn",
+          "url": "https://www.linkedin.com/in/akshay-kumar-sethi-20416254/",
+          "handle": "/in/lifecoach"
+        },
+        {
+          "platform": "Facebook",
+          "url": "https://www.facebook.com/akshaykumarsethi",
+          "handle": "@transformyourlife"
+        },
+        {
+          "platform": "YouTube",
+          "url": "https://www.youtube.com/@AKSHAYKUMARSETHI",
+          "handle": "@transformyourlife"
+        },
+        {
+          "platform": "Twitter",
+          "url": "https://x.com/imakshaysethi",
+          "handle": "@transformylife"
+        }
+      ],
+      "formFields": [
+        {
+          "name": "firstName",
+          "label": "First Name",
+          "type": "text",
+          "required": true,
+          "placeholder": "John"
+        },
+        {
+          "name": "lastName",
+          "label": "Last Name",
+          "type": "text",
+          "required": true,
+          "placeholder": "Doe"
+        },
+        {
+          "name": "email",
+          "label": "Email Address",
+          "type": "email",
+          "required": true,
+          "placeholder": "john@example.com"
+        },
+        {
+          "name": "phone",
+          "label": "Phone Number",
+          "type": "tel",
+          "required": false,
+          "placeholder": "+1 (555) 000-0000"
+        },
+        {
+          "name": "interest",
+          "label": "I'm interested in",
+          "type": "select",
+          "required": true,
+          "options": [
+            "1-on-1 Elite Transformation",
+            "Career Clarity Coaching",
+            "Confidence & Mindset Mastery",
+            "Group Coaching Program",
+            "Corporate/Enterprise Solutions",
+            "Membership Program",
+            "Just Exploring Options"
+          ]
+        },
+        {
+          "name": "message",
+          "label": "Tell us about your goals",
+          "type": "textarea",
+          "required": true,
+          "placeholder": "Share what you're hoping to achieve through coaching..."
+        }
+      ]
+    },
+    "community": {
+      "title": "Join Our Thriving Community",
+      "subtitle": "Connect with thousands of transformation-minded individuals worldwide",
+      "description": "Our vibrant community is a sanctuary for growth-oriented professionals committed to living their best lives. Experience unprecedented support, accountability, and inspiration.",
+      "features": [
+        {
+          "title": "Daily Happiness Habits",
+          "description": "Start each day with motivational content, success stories, and actionable insights",
+          "icon": "sunrise",
+          "color": "primary"
+        },
+        {
+          "title": "Weekly Growth Challenges",
+          "description": "Push your boundaries with expertly crafted challenges designed to accelerate transformation",
+          "icon": "target",
+          "color": "secondary"
+        },
+        {
+          "title": "Expert Q&A Sessions",
+          "description": "Monthly live sessions with industry leaders, authors, and transformation experts",
+          "icon": "mic",
+          "color": "accent"
+        },
+        {
+          "title": "Comprehensive Resource Library",
+          "description": "Access 500+ worksheets, guided meditations, video trainings, and transformation tools",
+          "icon": "book-open",
+          "color": "success"
+        },
+        {
+          "title": "Accountability Partnerships",
+          "description": "Get matched with like-minded partners for mutual support and accountability",
+          "icon": "users",
+          "color": "warning"
+        },
+        {
+          "title": "Exclusive Events & Retreats",
+          "description": "Join members-only virtual and in-person gatherings throughout the year",
+          "icon": "calendar",
+          "color": "primary"
+        }
+      ],
+      "stats": [
+        {
+          "number": "5,000+",
+          "label": "Active Members",
+          "sublabel": "Across 6 continents"
+        },
+        {
+          "number": "78",
+          "label": "Countries",
+          "sublabel": "Represented globally"
+        },
+        {
+          "number": "25,000+",
+          "label": "Transformations",
+          "sublabel": "Lives changed forever"
+        },
+        {
+          "number": "4.9/5",
+          "label": "Average Rating",
+          "sublabel": "From 2,000+ reviews"
+        }
+      ],
+      "cta": "Join the Community Today",
+      "ctaLink": "https://www.facebook.com/share/g/1DjdQ62J9n/",
+      "ctaSubtext": "Together We Rise, Together We Thrive"
+    }
+  }
