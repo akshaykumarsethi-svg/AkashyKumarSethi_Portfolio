@@ -56,7 +56,7 @@
       "title": "My Journey",
       "headline": "Transform Your Life,",
       "subtitle": "From Corporate Burnout to Purpose-Driven Success",
-      "image": "/images/about.jpg",
+      "image": "/images/about.jpeg",
       "story": [
         "A decade ago, I was trapped in a soul-crushing corporate routine. Despite external success, I felt empty, disconnected, and far from my true purpose. That rock bottom became my launching pad.",
         "Through intensive personal development, mindfulness practices, and transformative mentorship, I completely reinvented my life and learned how to be happy again. Today, I wake up every day living my passion—empowering others to discover theirs.",
@@ -114,7 +114,7 @@
       "individual": [
         {
           "id": 1,
-          "name": "Elite 1-on-1 Transformation",
+          "name": "Elite Transformation",
           "tagline": "Your personalized path to breakthrough success",
           "description": "Deep-dive intensive happiness coaching for high-achievers ready to transcend their current limitations and achieve exponential growth",
           "duration": "12 weeks",
@@ -135,7 +135,8 @@
           ],
           "price": "Contact for pricing",
           "featured": true,
-          "color": "primary"
+          "color": "primary",
+          "link":"https://learn.happinesshorizon.net/l/787cb3ae59"
         },
         {
           "id": 2,
@@ -160,7 +161,8 @@
           ],
           "price": "$3,500",
           "featured": false,
-          "color": "secondary"
+          "color": "secondary",
+          "link":"https://learn.happinesshorizon.net/l/db9eae3bbc"
         },
         {
           "id": 3,
@@ -185,7 +187,8 @@
           ],
           "price": "$1,800",
           "featured": false,
-          "color": "accent"
+          "color": "accent",
+          "link":"https://learn.happinesshorizon.net/l/2dd4fb0d64"
           
         }
       ],
@@ -276,7 +279,8 @@
           ],
           "popular": false,
           "color": "secondary",
-          "icon": "star"
+          "icon": "star",
+          "link":"https://tagmango.app/59bc070544"
         },
         {
           "id": 2,
@@ -296,7 +300,8 @@
           ],
           "popular": true,
           "color": "primary",
-          "icon": "zap"
+          "icon": "zap",
+          "link":"https://learn.happinesshorizon.net/l/8e636b0faf"
         },
         {
           "id": 3,
@@ -317,7 +322,8 @@
           ],
           "popular": false,
           "color": "accent",
-          "icon": "crown"
+          "icon": "crown",
+          "link":"https://learn.happinesshorizon.net/l/1338bc49fd"
         }
       ]
     },
