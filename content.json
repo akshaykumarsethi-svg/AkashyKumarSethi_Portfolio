@@ -264,18 +264,23 @@
       "tiers": [
         {
           "id": 1,
-          "name": "Happiness Foundation",
+          "name": "Happiness One",
           "tagline": "Start your transformation",
           "price": "$79",
           "period": "per month",
           "billingNote": "Billed monthly, cancel anytime",
           "benefits": [
-            "6 lessons of Emotional Awareness & Ultimate Happiness",
-            "Access to full resource library (100+ resources)",
-            "Private community platform access",
-            "Weekly reflection prompts & exercises",
-            "Monthly newsletter with exclusive insights",
-            "Member-only discounts on programs"
+            "⁠6 lessons of Emotional Awareness & Ultimate Happiness",
+            "Weekly challenges Action & Celebration",
+            "Happiness scorecard",
+            "Guided reflection worksheets",
+"Audio package for Ultimate Happiness",
+"Weekly Inner circle Mastermind-Live",
+"Community access and accountability",
+"A 21-day Project Happiness",
+"A quick start guides for the first week",
+"Completion Award & Certificate"
+
           ],
           "popular": false,
           "color": "secondary",
@@ -290,13 +295,18 @@
           "period": "per month",
           "billingNote": "Billed monthly, cancel anytime",
           "benefits": [
-            "Everything in Foundation tier",
-            "2 monthly 1-on-1 happiness coaching calls (45 min each)",
-            "Access to premium advanced courses",
-            "Priority email support (24hr response)",
-            "Quarterly personalized progress reviews",
-            "Exclusive monthly masterclasses",
-            "Early access to new programs"
+            "Everything in Happiness One +",
+            "Twelve Strategic implantation frameworks",
+            "Advanced emotional skill worksheets",
+            "Biweekly Live Action Implementation", 
+            "Measurable Personal Happiness tracker",
+            "Emotional resilience assessment",
+            "Relationship and communication blueprint",
+            "Pattern Mastery Package",
+            "Accountability pods",
+            "Digital Reflection Journal"
+            
+
           ],
           "popular": true,
           "color": "primary",
@@ -305,20 +315,22 @@
         },
         {
           "id": 3,
-          "name": "Quantum Happiness",
+          "name": "Happiness X",
           "tagline": "Elite transformation experience",
           "price": "$497",
           "period": "per month",
           "billingNote": "Billed monthly, cancel anytime",
           "benefits": [
-            "Everything in Accelerator tier",
-            "Weekly 1-on-1 coaching calls (60 min)",
-            "Direct messaging access (WhatsApp/Voxer)",
-            "100% personalized curriculum",
-            "Monthly VIP mastermind sessions",
-            "Annual in-person retreat (included)",
-            "Lifetime program access guarantee",
-            "Personal brand consultation included"
+            "Everything in Happiness Mastery +",
+            "12 Modules of Happiness Design, ",
+            "Hot seat coaching for breakthroughs",
+            "Happiness Lab Live",
+            "Happy Game of Influence",
+            "Private community space with direct guidance",
+            "Quarterly transformation challenges",
+            "Access to all previous course libraries",
+            "Expert Session on Health, Wealth & Relationships",
+            "Annual Immersion experience "
           ],
           "popular": false,
           "color": "accent",
